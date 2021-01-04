@@ -1,4 +1,4 @@
-# pwiz_macOS_native_build_patch
+# a patch to build ProteoWizard on macOS Catalina using clang bundled with Xcode.
 
 - Status: Not completed.
 - Objective: To provide a patch to bulid ProteWizard using clang with MacOS Catalina and Xcode. Current build target is msconvert CUI.
